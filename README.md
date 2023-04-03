@@ -4,11 +4,12 @@ This readme file was generated on 2022-12-14
 Title of Project: Drag Race Philippines Sentiment Analysis
  
 ## Contributors:
-Gozon, Jean Pauline
-Jamias, Gillian Nicole
-Reyes, Anton Gabriel
+- Gozon, Jean Pauline
+- Jamias, Gillian Nicole
+- Reyes, Anton Gabriel
  
 Date of data collection: 2022-10-10
+
 Geographic location of data collection: Philippines, Nationwide
  
  
